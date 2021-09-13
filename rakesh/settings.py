@@ -25,7 +25,7 @@ SECRET_KEY = 'b!v=@*071+i91qe=y#enlkakdz2=pq#j+#+g-vlw7wa9%x5kg3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['speech-analyst.herokuapp.com']
 
 
 # Application definition
