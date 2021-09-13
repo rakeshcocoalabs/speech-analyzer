@@ -1,1 +1,1 @@
-web: gunicorn yourProjectName.wsgi --log-file -
+web: gunicorn rakesh.wsgi --log-file -
